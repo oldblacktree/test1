@@ -5,7 +5,7 @@ potential **Front-end Developer**
 
 ## Contact
 &#x2709; &nbsp; oldblacktree@gmail.com <br>
-&#x2706; &nbsp; +37529 7038266 <br>
+&#x2706; &nbsp; &nbsp; +37529 7038266 <br>
 &#9962; &nbsp; Minsk / Belarus <br>
 
 ## Objective
