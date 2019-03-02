@@ -2,7 +2,7 @@ RESUME
 * * *
 # Daniil Lukonin                                             
 potential **Front-end Developer** 
-
+![Alt text](img/face150px.jpg)
 ## Contact
 &#x2709;  oldblacktree@gmail.com <br>
 &#x2706;  +37529 7038266 <br>
