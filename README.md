@@ -1,6 +1,6 @@
 RESUME
 * * *
-# Daniil Lukonin
+                  # Daniil Lukonin                                             
 potential **Front-end Developer** 
 
 ## Contact
