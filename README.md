@@ -4,9 +4,9 @@ RESUME
 potential **Front-end Developer** 
 
 ## Contact
-&#x2709;  oldblacktree@gmail.com
-&#x2706;  +37529 7038266
-&#9962; Minsk / Belarus 
+&#x2709;  oldblacktree@gmail.com <br>
+&#x2706;  +37529 7038266 <br>
+&#9962; Minsk / Belarus <br>
 
 ## Objective
 Hello! I'm twenty seven years old guy, that get interested in programming and trying become better and better in this sphere. For me RRShool is a good chance to get new experience and practice, and place, where I will met like-minded persons. I'm motivated to do my best during this course.
