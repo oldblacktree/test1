@@ -1,6 +1,6 @@
 RESUME
 * * *
-![Alt text](img/face150px.jpg) &nbsp; # Daniil Lukonin                                        
+# ![Alt text](img/face150px.jpg) &nbsp; Daniil Lukonin                                        
 potential **Front-end Developer** 
 
 ## Contact
